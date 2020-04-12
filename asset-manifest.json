@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/online-countdown/static/css/main.bec4fedb.chunk.css",
+    "main.js": "/online-countdown/static/js/main.297bd126.chunk.js",
+    "main.js.map": "/online-countdown/static/js/main.297bd126.chunk.js.map",
+    "runtime-main.js": "/online-countdown/static/js/runtime-main.07c95c0b.js",
+    "runtime-main.js.map": "/online-countdown/static/js/runtime-main.07c95c0b.js.map",
+    "static/js/2.9bbda9da.chunk.js": "/online-countdown/static/js/2.9bbda9da.chunk.js",
+    "static/js/2.9bbda9da.chunk.js.map": "/online-countdown/static/js/2.9bbda9da.chunk.js.map",
+    "index.html": "/online-countdown/index.html",
+    "precache-manifest.3903372223006bb75abc50e9c21cc3e8.js": "/online-countdown/precache-manifest.3903372223006bb75abc50e9c21cc3e8.js",
+    "service-worker.js": "/online-countdown/service-worker.js",
+    "static/css/main.bec4fedb.chunk.css.map": "/online-countdown/static/css/main.bec4fedb.chunk.css.map",
+    "static/js/2.9bbda9da.chunk.js.LICENSE.txt": "/online-countdown/static/js/2.9bbda9da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07c95c0b.js",
+    "static/js/2.9bbda9da.chunk.js",
+    "static/css/main.bec4fedb.chunk.css",
+    "static/js/main.297bd126.chunk.js"
+  ]
+}
